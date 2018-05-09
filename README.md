@@ -25,5 +25,8 @@
   <li>
   <a href="https://github.com/alani4837/Python-Scripts/tree/master/tetris">Python Tetris game</a>
   </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/tree/master/catching-a-bouncing-ball">Python Catching a bouncing ball</a>
+  </li>
 
 </ul>
