@@ -2,31 +2,31 @@
 
 <ul>
   <li>
-    <a href="https://github.com/alani4837/python.scripts/blob/master/keylogger.py">Python Keylogger</a>
+    <a href="https://github.com/alani4837/python.scripts/blob/master/keylogger.py">Keylogger</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/blob/master/calculator.py">Python Calculator</a>
+    <a href="https://github.com/alani4837/Python-Scripts/blob/master/calculator.py">Calculator</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/blob/master/PyGoogle.py">Python Google Serach</a>
+    <a href="https://github.com/alani4837/Python-Scripts/blob/master/PyGoogle.py">Google Search in terminal</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/blob/master/PyPaint.py">Python Paint</a>
+    <a href="https://github.com/alani4837/Python-Scripts/blob/master/PyPaint.py">Paint</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/blob/master/get_youtube_views.py">Python Youtube Views</a>
+    <a href="https://github.com/alani4837/Python-Scripts/blob/master/get_youtube_views.py">Youtube Views</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/blob/master/snake.py">Python Simple Snake Game</a>
+    <a href="https://github.com/alani4837/Python-Scripts/blob/master/snake.py">Simple Snake Game</a>
   </li>
   <li>
-    <a href="https://github.com/alani4837/Python-Scripts/tree/master/Minecraft">Simple Minecraft-demo written in Python and         Pyglet</a>
+    <a href="https://github.com/alani4837/Python-Scripts/tree/master/Minecraft">Simple Minecraft</a>
   </li>
   <li>
-  <a href="https://github.com/alani4837/Python-Scripts/tree/master/tetris">Python Tetris game</a>
+  <a href="https://github.com/alani4837/Python-Scripts/tree/master/tetris">Tetris game</a>
   </li>
   <li>
-  <a href="https://github.com/alani4837/Python-Scripts/tree/master/catching-a-bouncing-ball">Python Catching a bouncing ball</a>
+  <a href="https://github.com/alani4837/Python-Scripts/tree/master/catching-a-bouncing-ball">Catching a bouncing ball</a>
   </li>
 
 </ul>
