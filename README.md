@@ -28,5 +28,11 @@
   <li>
   <a href="https://github.com/alani4837/Python-Scripts/tree/master/catching-a-bouncing-ball">Catching a bouncing ball</a>
   </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/blob/master/digital_clock.py">Digital Clock</a>
+  </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/blob/master/countdown_timer.py">Countdown Timer</a>
+  </li>
 
 </ul>
