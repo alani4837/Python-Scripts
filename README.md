@@ -34,5 +34,8 @@
   <li>
   <a href="https://github.com/alani4837/Python-Scripts/blob/master/countdown_timer.py">Countdown Timer</a>
   </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/blob/master/RPG-game.py">Terminal RPG Game</a>
+  </li>
 
 </ul>
