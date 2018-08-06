@@ -37,5 +37,8 @@
   <li>
   <a href="https://github.com/alani4837/Python-Scripts/blob/master/RPG-game.py">Terminal RPG Game</a>
   </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/blob/master/port-scanner.py">Port Scanner</a>
+  </li>
 
 </ul>
