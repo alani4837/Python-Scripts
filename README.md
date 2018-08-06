@@ -40,5 +40,8 @@
   <li>
   <a href="https://github.com/alani4837/Python-Scripts/blob/master/port-scanner.py">Port Scanner</a>
   </li>
+  <li>
+  <a href="https://github.com/alani4837/Python-Scripts/blob/master/password-generator.py">Password Generator</a>
+  </li>
 
 </ul>
