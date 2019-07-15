@@ -1,4 +1,4 @@
-# python.scripts
+# Some usefull Python cripts
 
 <ul>
   <li>
